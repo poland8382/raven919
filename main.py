@@ -17,6 +17,10 @@ import collections
 import concurrent.futures
 import urllib.request
 import asyncio
+import requests
+import aiohttp
+import httpx
+import telebot
 import telegram
 from urllib.parse import urlparse
 from telegram import Update
